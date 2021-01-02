@@ -1,8 +1,43 @@
 {
   "name": "ngx-cardwindow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "main": "bundles/ngx-cardwindow.umd.js",
+  "module": "fesm5/ngx-cardwindow.js",
+  "es2015": "fesm2015/ngx-cardwindow.js",
+  "esm5": "esm5/ngx-cardwindow.js",
+  "esm2015": "esm2015/ngx-cardwindow.js",
+  "fesm5": "fesm5/ngx-cardwindow.js",
+  "fesm2015": "fesm2015/ngx-cardwindow.js",
+  "typings": "ngx-cardwindow.d.ts",
+  "metadata": "ngx-cardwindow.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zammy395/ngx-cardwindow.git"
+  },
+  "keywords": [
+    "cards",
+    "animation",
+    "ngx-cards"
+  ],
+  "author": "sufiyan shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zammy395/ngx-cardwindow/issues"
+  },
+  "homepage": "https://github.com/zammy395/ngx-cardwindow#readme"
 }
